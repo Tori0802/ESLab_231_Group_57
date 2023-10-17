@@ -17,7 +17,7 @@
 ## Tải và cài đặt Espressif-IDE  
 _Bước 1:_ Vào trang chủ: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html <br> 
 
-_Bước 2:_ Ở mục Manual Installation, nhấn vào "Windows Installation" như hình dưới đây (nếu hệ điều hành sử dụng là Windows) <br> 
+_Bước 2:_ Ở mục Manual Installation, nhấn vào **Windows Installer** như hình dưới đây (nếu hệ điều hành sử dụng là Windows) <br> 
 <p align="center"> <img src="https://github.com/Tori0802/ESLab_231_Group_57/assets/109940367/2e586f1d-7ba6-4c24-8bfe-86ee8496c1ee" alt="" width="800" title="Download Espressif-IDE 1"> </p> <br> 
 
 _Bước 3:_ Nhấn vào "Windows Installer Download" để chọn phiên bản cài đặt <br> 
