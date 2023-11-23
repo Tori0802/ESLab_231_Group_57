@@ -35,7 +35,7 @@ _Bước 1:_ Mở tool Espressif-IDE <br>
 _Bước 2:_ Tạo một project mới bằng cách chọn **File** -> **New** -> **Espressif IDF Project** <br>
 <p align="center"> <img src="https://github.com/Tori0802/ESLab_231_Group_57/assets/109940367/8338646f-5093-4382-b102-da03c44a31bc" alt="" width="800" title="Build source Espressif-IDE 1"> </p> <br>
 
-_Bước 3:_ Sau khi đặt tên project, xác định đường dẫn và hoàn thành các bước khởi tạo, một project sẽ được khởi tạo như ví dụ hình dưới đây, lúc này chúng ta sẽ chỉnh sửa source code ở file **main.c** hoặc add thêm các file cần thiết khác để hoàn thành bước hiện thực code <br> 
+_Bước 3:_ Sau khi đặt tên project, xác định đường dẫn và hoàn thành các bước khởi tạo, một project sẽ được khởi tạo như ví dụ hình dưới đây, lúc này chúng ta sẽ chỉnh sửa source code ở file **main.c** hoặc add thêm các file cần thiết khác để hoàn thành bước hiện thực code. Trong trường hợp chạy các lab, chúng ta sẽ copy source code cần thiết (VD: lab1.c) vào file **main.c** và tiến hành chạy<br> 
 <p align="center"> <img src="https://github.com/Tori0802/ESLab_231_Group_57/assets/109940367/c7ef2065-30a1-4540-9092-bab7889b9403" alt="" width="800" title="Build source Espressif-IDE 2"> </p> <br>
 
 _Bước 4:_ Hiện thực **_build_**, **_run_** hay **_stop mode_** bằng cách nhấn các nút tùy chọn ở bên trái thanh bar dưới thanh menu hoặc vào **Run** -> Các mode tùy chọn <br>
